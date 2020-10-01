@@ -1,8 +1,8 @@
 ---
 layout: cheatsheet
-title: Scala Cheatsheet
+title: Scala Cheat sheet
 
-partof: cheatsheet
+partof: cheat sheet
 
 by: Brendan O'Connor
 about: Thanks to <a href="https://brenocon.com/">Brendan O'Connor</a>, this cheatsheet aims to be a quick reference of Scala syntactic constructions. Licensed by Brendan O'Connor under a CC-BY-SA 3.0 license.
